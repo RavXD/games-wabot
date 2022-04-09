@@ -14,7 +14,7 @@ global.Owner = {
     isCreator: false // if true this number will send if user use command /owner or /creator
   },
   '6283818101132': { // put your number here
-    name: 'Dave',
+    name: 'Rav',
     isDev: false, // if true this number will send if bot have bug and developer mode true
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: false // if true this number will send if user use command /owner or /creator
@@ -52,7 +52,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'wa.me/6285713964963'
+global.packname = 'wa.me/6283818101132'
 global.author = 'Lumina Chan'
 
 global.multiplier = 39 // The higher, The harder levelup
